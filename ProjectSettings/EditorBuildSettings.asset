@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/inicio.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GrandesObras.unity
+    guid: be9c68427b3defc4aa48b5c169261657
+  - enabled: 1
+    path: Assets/Scenes/exposicion.unity
+    guid: 2df25f8044b4ee240b461a5b1c8b911c
+  - enabled: 1
+    path: Assets/Scenes/Vidayobra.unity
+    guid: ca64ec0ac41cb1040a6cc96f8ff8a5a5
+  - enabled: 1
+    path: Assets/Scenes/Desnuda.unity
+    guid: 38d371e87c2caec459ceb746a8d2e546
+  - enabled: 1
+    path: Assets/Scenes/DosDeMayo.unity
+    guid: fb3d457bf38eb5b44a257e85b91b033f
+  - enabled: 1
+    path: Assets/Scenes/Duquesa.unity
+    guid: 966e7401ca9139743b0f6b12b07b4985
+  - enabled: 1
+    path: Assets/Scenes/familia.unity
+    guid: 96a0282901f3b4045b41bef963196408
+  - enabled: 1
+    path: Assets/Scenes/Vestida.unity
+    guid: c95f853474b8d934ab353956da8d25f4
+  - enabled: 1
+    path: Assets/Scenes/Video1.unity
+    guid: 049eacc0a352434449c1768a7c553a33
+  - enabled: 1
+    path: Assets/Scenes/Video2.unity
+    guid: c7eb6a61b2c0dd440a1a53834822970a
+  - enabled: 1
+    path: Assets/Scenes/Video3.unity
+    guid: 5afe78cac4c454448ad35f517155dcae
+  - enabled: 1
+    path: Assets/Scenes/Video4.unity
+    guid: 57a753f2b23577148a2b459350036e56
+  m_configObjects: {}
